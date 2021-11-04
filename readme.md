@@ -17,5 +17,5 @@
 
 ![Izuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=izuye&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izuye&layout=compact)](https://github.com/izuye)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izuye&layout=compact&theme=radical)](https://github.com/izuye)
 
