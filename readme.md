@@ -17,7 +17,7 @@
 
 <h3 align="left">Project<h3>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=izuye&repo=izstikerin)](https://github.com/izuye/izstikerin)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=izuye&repo=klmpk2-web)](https://github.com/izuye/klmpk2-web)
 
 
 <h3 align="left">My Github Stats</h3>
