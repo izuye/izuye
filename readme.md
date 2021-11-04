@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izuye</h1>
 <h3 align="center">You can call me Faiz</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izuye&label=Profile%20views&color=0e75b6&style=flat" alt="izuye" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izuye&label=Profile%20views&color=0e75b6&style=flat_square" alt="izuye" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,Python.**
 
