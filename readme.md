@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuye&label=Profile%20views&color=0e75b6&style=flat-square" alt="izuye" /> </p>
 
-- 🌱 I’m 16y.o**
+- 🌱 I’m 16y.o
+- 😎 I'm Ganteng
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
